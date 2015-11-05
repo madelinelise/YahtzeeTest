@@ -1,0 +1,11 @@
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\bin\Debug\YahtzeeTest.exe.config
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\bin\Debug\YahtzeeTest.exe
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\bin\Debug\YahtzeeTest.pdb
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\bin\Debug\DiceLibrary.dll
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\bin\Debug\DiceLibrary.pdb
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.csprojResolveAssemblyReference.cache
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.Form1.resources
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.Properties.Resources.resources
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.csproj.GenerateResource.Cache
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.exe
+c:\users\madeline_2\documents\visual studio 2013\Projects\YahtzeeTest\YahtzeeTest\obj\Debug\YahtzeeTest.pdb
